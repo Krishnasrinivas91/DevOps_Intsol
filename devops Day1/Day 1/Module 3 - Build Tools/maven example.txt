@@ -1,0 +1,75 @@
+File - > Project ->Mavan -> Maven Project
+
+Next
+
+check-Create a simple project
+check-Use default workspace location
+
+Group-id : com.example
+Artifact id or project is: maven-example
+packaging:jar
+
+Finish
+
+/src/main/java- source files
+/src.main/resources - resource files eg:images..etc 
+
+Test environment:
+/src/test/java - Test source files
+/sr/test/resources - resources for test
+
+Click on pom.xml - 
+Contains information of project
+
+Create a sample class:
+right click on /src/main/java - New class , package name -com.example , name as App and finish
+
+
+package com.example
+
+public class App {
+
+	public String Sample() {
+       return "sample";
+}
+}
+
+/src/test/java -right click and go to other -Junit -create Junit Test case and click on next , packahe name -com.example, Name:AppTest and Finish..
+
+Choose Not Now
+
+Errors with red marks
+
+We do not have jar files in build path
+
+We need to install Dependencies,maven will do automatically
+
+Click in pom.xml
+
+<dependencies>
+
+
+</dependencies>
+
+https://mvnrepository.com/artifact/junit/junit
+
+Click on 4.12
+
+https://mvnrepository.com/artifact/junit/junit/4.12	 
+ 
+<dependencies>
+<dependency>
+    <groupId>junit</groupId>
+    <artifactId>junit</artifactId>
+    <version>4.12</version>
+</dependency>
+</dependencies>
+
+Save..It will add the jar files
+
+Created MAven depenedcies folder
+
+Inside that you can junit.jar
+
+Access Apptest.java, it does not have dependencies eroors..
+

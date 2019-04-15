@@ -1,0 +1,8 @@
+https://s3.amazonaws.com/bucket1404191/
+
+
+https://s3.amazonaws.com/bucket1404191/Day+1.zip
+
+https://s3.amazonaws.com/bucket1404191/DevOps+Training+Pre-Requisites.pdf
+
+https://s3.amazonaws.com/bucket1404191/Devops+Training+TOC.pdf
