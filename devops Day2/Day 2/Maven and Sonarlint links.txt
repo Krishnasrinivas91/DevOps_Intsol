@@ -1,0 +1,10 @@
+
+Sonarlint:
+
+https://www.youtube.com/watch?v=sGElVI3fJAo
+
+https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+
+https://maven.apache.org/guides/getting-started/index.html#What_is_Maven
+
+https://maven.apache.org/plugins/

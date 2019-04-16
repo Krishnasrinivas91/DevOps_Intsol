@@ -1,0 +1,6 @@
+Centos 7 image in AWS Marketplace
+
+yum install docker
+
+service docker start
+
