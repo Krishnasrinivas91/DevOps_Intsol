@@ -1,0 +1,9 @@
+https://docs.docker.com/engine/swarm/swarm-tutorial/create-swarm/
+
+https://docs.docker.com/glossary/?term=cluster%20management
+
+https://upcloud.com/community/stories/docker-swarm-vs-kubernetes-comparison-of-the-two-giants-in-container-orchestration/
+
+https://docker-k8s-lab.readthedocs.io/en/latest/docker/docker-swarm-lb-scale.html
+
+
